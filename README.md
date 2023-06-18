@@ -2,6 +2,7 @@
 	Shubham runs a top end car showroom but his data analyst has just quit and left him without his crucial insights.
 so,my work is to annalyze the data and get various information like cars,manufacturers etc
 -Case study has three dataset which are cars,sales and salespersons.
+![Screenshot (6)](https://github.com/prashant9621/steel-data-/assets/136049491/84b9fb7f-f5c3-4e12-b71c-f8de2b87d9fc)
 -There are some question related to dataset like,
 1-Details of all cars manufacturer in 2022?
 2-What is the total number of carssold by each salespersons?
